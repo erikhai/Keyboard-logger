@@ -1,7 +1,7 @@
 # Keyboard-logger
 
 ## What is this project about
-This project consists of a script that logs all keyboard inputs into a text file. This little side project delves into cybersecurity and helped me understand the secutiry vulnerablities and importance of protecting sensitive information. 
+This project consists of a script that logs all keyboard inputs into a text file. This little side project delves into cybersecurity and helped me understand the security vulnerabilities and importance of protecting sensitive information.
 
 ## What did I learn from this project
 1. Developed more documentation skills and debugging skills
